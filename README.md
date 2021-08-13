@@ -6,7 +6,7 @@ Link(https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions/v
 **Languages**: Python
 
 ## Frequent Parttern Mining
-***Target***: Apply the Frequent Parttern Mining method, explore if there is any refrequent patter in the 4 text-rich columns in the data.
+***Target***: Apply the Frequent Pattern Mining method, explore if there is any frequent pattern in the 4 text-rich columns in the data.
 
 ***Packages***: Mlxtend
 
