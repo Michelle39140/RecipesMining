@@ -6,12 +6,12 @@ Link(https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions/v
 **Languages**: Python
 
 ## Frequent Parttern Mining
-***Target***: Apply the Frequent Pattern Mining method, explore if there is any frequent pattern in the 4 text-rich columns in the data.
+***Target***: Apply the Frequent Pattern Mining method, explore if there is any frequent pattern in the four text-rich columns in the data.
 
 ***Packages***: Mlxtend
 
 ## Recipe Popularity Analysis
-***Target***: Apply regression and classification models, test if the Popularity of recipes can be forecasted with current available data.
+***Target***: Apply regression and classification models to test if the popularity of recipes can be forecasted with current available data.
 
 ***Packages***: Sklearn
 
